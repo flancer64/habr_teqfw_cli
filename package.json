@@ -20,6 +20,6 @@
     "version": "node ./bin/tequila.mjs core-version"
   },
   "dependencies": {
-    "@teqfw/core": "github:teqfw/core"
+    "@teqfw/core": "*"
   }
 }
