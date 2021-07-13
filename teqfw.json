@@ -1,0 +1,13 @@
+{
+  "di": {
+    "autoload": {
+      "ns": "Fl64_Habr",
+      "path": "./src"
+    }
+  },
+  "core": {
+    "commands": [
+      "Fl64_Habr_Back_Cli_PluginsList"
+    ]
+  }
+}
